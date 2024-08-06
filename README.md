@@ -2,6 +2,7 @@
 # Tools & Technologies ✩𓏲𓇼
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="150" />
   <img src="https://img.shields.io/badge/Packet_Tracer-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
