@@ -1,11 +1,15 @@
 ## IT STUDENT
 # 🌸✨ Tools & Technologies ✨🌸
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Packet_Tracer-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
 
-| ![Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-0078D4?style=flat-square&logo=cisco&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
-| --- | --- | --- |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) |
 
 </div>
 
