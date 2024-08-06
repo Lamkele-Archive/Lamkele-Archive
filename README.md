@@ -1,5 +1,5 @@
-# IT STUDENT
-# 𓇼𓏲✩ Tools & Technologies ✩𓏲𓇼
+#IT STUDENT
+# Tools & Technologies ✩𓏲𓇼
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Packet_Tracer-0078D4?style=flat&logo=cisco&logoColor=white" alt="Packet Tracer" />
