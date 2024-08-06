@@ -1,20 +1,14 @@
 #IT STUDENT
-<h1 style="text-align: center;">𓇼𓏲✩ Tools & Technologies ✩𓏲𓇼</h1>
-
-<div style="text-align: center;">
-  <img src="https://img.shields.io/badge/-Packet_Tracer-0078D4?style=flat&logo=cisco&logoColor=white" alt="Packet Tracer" width="60" />
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" width="60" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" width="60" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="60" />
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" width="60" />
-  <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" width="60" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="60" />
-</div>
-
-
-
-
-
+# Tools & Technologies ✩𓏲𓇼
+<p align="center">
+  <img src="https://img.shields.io/badge/-Packet_Tracer-0078D4?style=flat&logo=cisco&logoColor=white" alt="Packet Tracer" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+</p>
 
 </div>
 
