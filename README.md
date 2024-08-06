@@ -1,4 +1,4 @@
-## IT STUDENT
+# IT STUDENT
 # 🌸✨ Tools & Technologies ✨🌸
 
 <p align="center">
